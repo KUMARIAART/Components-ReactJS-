@@ -1,0 +1,134 @@
+#maindiv{
+  height:90vh;
+  width:55vw;
+  border:1vw solid black;
+  border-radius:5%;
+  margin: auto;
+  margin-top:2.5vh;
+}
+#sidebar{
+  height:90vh;
+  width:15vw;
+  border:0.05vw solid black;
+  background-color:rgb(50, 48, 48);
+  margin-top:-7.5vh;
+  margin-left: -0.1vw;
+}
+h4{
+  color: white;
+  margin-top:0.5vh;
+}
+h5{
+  color: white;
+  margin-top:-1vh;
+  margin-left:4vw;
+}
+#header{
+  width:40vw;
+  height:7vh;
+  border:0.05vw solid black;
+  margin-left:15vw;
+  background-color:rgb(53, 188, 241);
+}
+h3{
+  color: white;
+  margin-left:1vw;
+  margin-top:1.5vh;
+}
+#footer{
+  width:40vw;
+  height:20vh;
+  /* border:0.05vw solid black; */
+  margin-left:15vw;
+  margin-top:-25;
+}
+#btn{
+  background-color:rgb(53, 188, 241);
+  width:6;
+  color: white;
+  border-radius:5px;
+  margin-top:vh;
+  margin-left:32vw;
+  border: white;
+}
+#btn1{
+  width:7vw;
+  height:6vh;
+  border-radius:15px;
+  background-color:rgb(53, 188, 241);
+  color: white;
+  margin-left:12vw;
+  margin-top:2vh;
+  border: white;
+}
+#btn2{
+  width:7vw;
+  height:6vh;
+  border-radius:15px;
+  background-color:lightgray;
+  margin-left:0.5vw;
+  margin-top:2vh;
+  border: white;
+}
+#body{
+  width:40vw;
+  height:55vh;
+  /* border:0.05vw solid black; */
+  margin-left:15vw;
+  margin-top:-83vh;
+}
+span{
+  color: red;
+}
+#hr1{
+  width:20vw;
+  height:0.1vh;
+  background-color:rgb(53, 188, 241);
+  margin-left:1vw;
+  margin-top:-2vh;
+}
+p{
+  margin-left:1vw;
+  margin-top:5vh;
+}
+h2{
+  margin-left:1vw;
+  color:rgb(53, 188, 241);
+}
+table{
+  width:39vw;
+  border:0.05vh solid black;
+  margin-left:0.5vw;
+  margin-top:-2vh;
+}
+#hr2{
+  background-color:rgb(53, 188, 241);
+  margin-top:-2.5vh;
+  width:5vw;
+}
+#hr3{
+  background-color:rgb(53, 188, 241);
+  margin-top:-2.5vh;
+  width:16vw;
+  margin-left:1vw;
+}
+#hr4{
+  margin-top:-2.5vh;
+}
+#hr5{
+  background-color:rgb(53, 188, 241);
+  margin-top:-2.5vh;
+  width:5vw;
+}
+#hr6{
+  background-color:rgb(53, 188, 241);
+  margin-top:-2.5vh;
+  width:16vw;
+  margin-left:1vw;
+}
+#hr7{
+  margin-top:-2.5vh;
+}
+#crose{
+  margin-left: 18vw;
+}
